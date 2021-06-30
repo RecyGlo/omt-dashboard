@@ -13,6 +13,7 @@ Oh My Trash Dashboard is based on [Create React App](https://github.com/facebook
   - [npm run eject](#npm-run-eject)
 - [Installing and Running Code](#installing-and-running-code)
 - [Building Project](#building-project)
+- [Project Structure](#project-structure)
 
 ## Updating to New Releases
 
@@ -80,8 +81,6 @@ To get started follow this steps:
 ## Building Project
 
 To build the app for production run `npm run build` or `yarn build`
-
-
 
 ## Project Structure
 
