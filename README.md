@@ -8,7 +8,7 @@ Oh My Trash Dashboard is based on [Create React App](https://github.com/facebook
 To get started follow this steps:
 
 - Install [Node](https://nodejs.org/en/).
-- Download and open this project (`cd path/to/easydev-seed`).
+- Download and open this project (`cd path/to/omt-dashboard`).
 - Install packages: `npm install` or `yarn install`.
 - Start the project locally: `npm start` or `yarn start` (running on port 3000).
 
