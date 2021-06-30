@@ -82,3 +82,21 @@ To get started follow this steps:
 To build the app for production run `npm run build` or `yarn build`
 
 
+
+## Project Structure
+
+    .
+    ├── public                  # Public files
+    ├── src                     # Source files
+    │   ├── actions             # Redux actions
+    │   ├── assets/scss         # SCSS stylesheets
+    │   ├── components          # Shared components
+    │   ├── layouts             # Layout files
+    │   ├── reducers            # Redux reducers
+    │   ├── store               # Redux store
+    │   ├── theme               # Theme files
+    │   ├── utils               # Utility items
+    │   ├── views               # View Components
+    │   └── ...  
+    └── README.md
+
